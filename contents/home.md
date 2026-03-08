@@ -1,7 +1,7 @@
 # Jian Xiao (肖剑)
 
 
-### 🔗 个人链接 & 联系方式 | Home-page & Contact
+### 🔗 个人链接 & 联系方式 | Home Page & Contact
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/musicman217)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=googlescholar)](https://scholar.google.com/citations?user=6WtIuucAAAAJ&hl=zh-CN)  
 [![Email](https://img.shields.io/badge/163%E9%82%AE%E7%AE%B1-xiaojian170021%40163.com-green?logo=gmail)](mailto:xiaojian170021@163.com)
@@ -12,7 +12,7 @@
 
 ---
 
-### 👋 个人简介 | About me
+### 👋 个人简介 | About Me
 **目前就读于合肥工业大学计算机与信息学院计算机技术专业硕士**（2023-2026）  
 *Master's student in Computer Technology, School of Computer Science and Information Engineering, Hefei University of Technology*
 
