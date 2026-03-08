@@ -1,21 +1,41 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+## 💼 Professional Experience | 工作经历
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+**ByteDance**, E-commerce Recommendation Algorithm Engineer  
+2026 – Present  
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Recommendation ranking and user behavior modeling  
+- Optimization of large-scale recommendation systems  
+
+字节跳动，电商推荐算法工程师  
+2026 – 至今  
+
+- 负责推荐排序模型与用户行为建模  
+- 优化大规模推荐系统  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+**ByteDance Commercialization**, Advertising Algorithm Intern (Creative Optimization)  
+2025  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+- Advertising creative selection algorithms  
+- Creative ranking model optimization  
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+字节跳动商业化，广告算法实习生（创意优选）  
+2025
+
+- 参与广告创意优选算法  
+- 优化广告创意排序模型  
+
+---
+
+**JD.com Retail**, Recommendation Algorithm Intern (Recall)  
+2025  
+
+- Candidate recall algorithms  
+- Large-scale retrieval optimization  
+
+京东零售，推荐算法实习生（召回）  
+2025  
+
+- 参与推荐系统召回算法开发  
+- 优化大规模候选召回效率  
