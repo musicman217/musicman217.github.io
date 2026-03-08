@@ -54,7 +54,6 @@
 
 ---
 
-### 📰 最新动态 | News
-- **2026年** — 加入字节跳动电商，担任推荐算法工程师（ByteDance E-commerce | Recommendation Algorithm Engineer）  
+### 📰 最新动态 | News  
 - **2025年** — 论文被 NeurIPS 2025 接收  
 - **2025年** — 论文被 AAAI 2025 接收
